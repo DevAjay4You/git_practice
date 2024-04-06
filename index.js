@@ -1,4 +1,4 @@
-console.log("hellow world")
+console.log("welcome to git practice")
 
 
 async function orderDrink() {
